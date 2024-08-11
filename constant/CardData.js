@@ -444,7 +444,7 @@ const cardData = {
         designation: 'Member',
         linkedin: 'https://www.linkedin.com/in/harsh-dwivedi-4b9bb9289/',
         instagram: 'https://www.instagram.com/harsh_ackreman/',
-        image: 'https://res.cloudinary.com/dnbutfdy7/image/upload/v1723303571/profile%20pictures/harsh_sa6n5g.jpg',
+        image: 'https://res.cloudinary.com/dnbutfdy7/image/upload/v1723384981/profile%20pictures/harsh_hi5goh.jpg',
       }
     ],
   },
@@ -622,7 +622,7 @@ const cardData = {
         designation: 'Member',
         linkedin: 'https://www.linkedin.com/in/harsh-dwivedi-4b9bb9289/',
         instagram: 'https://www.instagram.com/harsh_ackreman/',
-        image: 'https://res.cloudinary.com/dnbutfdy7/image/upload/v1723303571/profile%20pictures/harsh_sa6n5g.jpg',
+        image: 'https://res.cloudinary.com/dnbutfdy7/image/upload/v1723384981/profile%20pictures/harsh_hi5goh.jpg',
       },
       {
         id: 8,
