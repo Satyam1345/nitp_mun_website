@@ -62,7 +62,7 @@ const cardData = {
         name: 'Lakshya',
         designation: 'Head of Delegates Affairs',
         linkedin: 'https://www.linkedin.com/in/lakshya-parashar-65156b301',
-        instagram: 'https://www.instagram.com/samwilson',
+        instagram: 'https://www.instagram.com/laksh.yya/',
         image: 'https://res.cloudinary.com/dnbutfdy7/image/upload/v1719679909/profile%20pictures/LAKSHAY%20PARASHAR.png',
       },
       {
